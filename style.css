@@ -27,8 +27,16 @@ h1 {
     border: 8px;
     margin: 20px;
 }
+input{
+    border-radius: 2rem;
+}
 #bisiesto, #DayType{
     font-family: 'Akronim', cursive;
     font-size: 3rem;
 }
 
+.btnPredice{
+    height: 30px;
+    border: 1em;
+    margin-right: 1em;
+}
